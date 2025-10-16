@@ -14,7 +14,7 @@ public class Proyecto03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("EL IDE DE PROGRAMACION ES APACHE NET BEANS");
+        System.out.println("EL IDE DE PROGRAMACION ES APACHE NET BEANS java python");
     }
     
 }
